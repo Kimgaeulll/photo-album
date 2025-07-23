@@ -13,8 +13,8 @@ ul {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
   list-style: none;
-  padding: 60;
-  margin: 40;
+  padding: 0;
+  margin: 0;
 }
 
 li {
